@@ -1,0 +1,16 @@
+1, EastMidlands,
+2, EastofEngland,
+3, EastScotland,
+4, London,
+5, NorthEastEngland,
+6, NorthScotland
+7, NorthWestEngland,
+8, SouthEastEngland, 
+9, SouthWestEngland,
+10, WestMidlands,
+11, WestScotland,
+12, YorkshireandHumber, 
+13, ChannelIslands,
+14, IsleofMan,
+15, NorthernIreland,
+16, Wales
